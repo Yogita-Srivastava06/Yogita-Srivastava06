@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Yogita-Srivastava06
-- 👀 I’m interested in ...Data Science, Web Development
-- 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ...AI, Web Development
+- 🌱 I’m currently learning ...Java Full Stack Web Development
+- 💞️ I’m looking to collaborate on ...Java Full Stack Web Developer
+- 📫 How to reach me ...Email: srivastavayogita25@gmail.com.
+
 
 <!---
 Yogita-Srivastava06/Yogita-Srivastava06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
